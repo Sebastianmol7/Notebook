@@ -1,0 +1,1 @@
+Hitchcock intrudces the idea of using a TF-IDF (text frequency/inverse document frequency) methodoloy to similar traits in his research. This, Hitchcock believes, bridges the gap between close and distant readings of his research.
